@@ -35,6 +35,9 @@ All consumers are finished.
 - The option to implement Map ensure the possibility to test as a normal Map
 - Some methods required in the interface Map need to be implemented, only the necessary were implemented.
 - To keep the implementation simple the Map was created using an Array and a Linkedlist.
+
+![hashmap](https://user-images.githubusercontent.com/6804563/54634168-dc8a7500-4a3e-11e9-9473-bf61541bd1ce.jpg)
+
 - To keep the performance good is possible to balance the size of array creating a specific method to do this.
 - The resizing of the array will ensure a better distribuction of the objects but is necessary to re-hashing.
 
